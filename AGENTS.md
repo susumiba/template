@@ -26,6 +26,6 @@ Several people, each with their own AI, work here together. You are one person's
 
 **If your tool gets in the way.** If it cannot write in `.git`, or asks permission for every git command, say so plainly: until the git commands are allowed, nothing is shared. https://susumiba.com/setup.md explains how to allow only those, for this folder. If allowed git commands still fail, run each one on its own before concluding: some tools only allow a command that stands alone.
 
-**Updates.** This is version 0.2. Now and then, when opening a session, look at the latest tag of https://github.com/susumiba/template (`git ls-remote --tags`). If it is newer, offer to show what would change, and apply it only if the person wants, without touching what this project wrote for itself.
+**Updates.** This is version 0.2. When opening a session, look at the latest tag of https://github.com/susumiba/template (`git ls-remote --tags https://github.com/susumiba/template`). If it is newer, offer to show what would change, and apply it only if the person wants, without touching what this project wrote for itself.
 
 If the person needs something about Susumiba itself, read https://susumiba.com/ia.md.
